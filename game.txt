@@ -1,0 +1,21 @@
+Rock paper scissor 
+
+R = Rock = 1 
+p = paper= 2 
+s = scissor =3 
+
+sudo code;
+
+if user computer winner
+
+    rock    rock     tie
+    paper   paper    tie
+    scissor scissor  tie
+
+    Rock    paper   computer
+    paper   scissor computer
+    scissor rock    computer
+
+    paper rock      user
+    scissor paper   user
+    rock scissor    user   
