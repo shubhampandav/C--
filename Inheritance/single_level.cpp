@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 class Triangle
-{
+{  
+    // this is base class 
     public: 
     void T_area()
     {
@@ -16,7 +17,7 @@ class Triangle
 
     }
 };
-class Circle:public Triangle
+class Circle:public Triangle // this is derived class 
 {
     public: 
     void C_area()
